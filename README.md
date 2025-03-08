@@ -76,7 +76,7 @@
 
 ## 📈 LeetCode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/tom_01)](https://leetcode.com/tom_01)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/tom_01?theme=nord)](https://leetcode.com/tom_01)
 
 ## 📈 GitHub Stats
 
