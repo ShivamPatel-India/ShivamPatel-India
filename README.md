@@ -22,7 +22,7 @@
 
 ## 👨‍💻 Programming and markup languages
 
-<p align="center">
+<p align="left">
     <a title="Java"><img src="https://skillicons.dev/icons?i=java" /></a>
     <a title="JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
     <a title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a>
@@ -37,7 +37,7 @@
 
 ## 🧰 Frameworks and libraries
 
-<p align="center">
+<p align="left">
     <a title="React"><img src="https://skillicons.dev/icons?i=react" /></a>
     <a title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
     <a title="Spring"><img src="https://skillicons.dev/icons?i=spring" /></a>
@@ -50,7 +50,7 @@
 
 ## 🧑🏻‍💻 Software and tools
 
-<p align="center">
+<p align="left">
     <a title="Git"><img src="https://skillicons.dev/icons?i=git" /></a>
     <a title="Postman"><img src="https://skillicons.dev/icons?i=postman" /></a>
     <a title="Docker"><img src="https://skillicons.dev/icons?i=docker" /></a>
@@ -63,7 +63,7 @@
 
 ## 🗄️ Databases and cloud platforms
 
-<p align="center">
+<p align="left">
     <a title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" /></a>
     <a title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
     <a title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" /></a>
