@@ -2,8 +2,12 @@
     <img src="https://github.com/ShivamPatel-India/ShivamPatel-India/blob/main/logos/name.svg" alt="Shivam Patel" />
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1400&pause=800&color=1100FF&center=true&vCenter=true&width=500&lines=Welcome!+Glad+to+have+you+here!;Passionate+Software+Engineer;Exploring+AI+%26+Cloud+Computing;Building+Scalable+Web+Applications;Problem+Solver+%7C+Tech+Enthusiast;Always+Curious+%26+Eager+to+Learn!)](https://git.io/typing-svg)
+<p align="center">
+    <a href="https://github.com/ShivamPatel-India">
+    <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1400&pause=800&color=0077FF,E3242B&center=true&vCenter=true&width=500&lines=Hey!+Great+to+see+you+here!;Passionate+Software+Engineer;Exploring+AI+%26+Cloud+Computing;Building+Scalable+Web+Applications;Problem+Solver+%7C+Tech+Enthusiast;Always+Curious+%26+Eager+to+Learn!" alt="Typing SVG" />
+    </a>
 
+</p>
 
 <p align="center">
     <a href="https://shivampatel.onrender.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" /></a>
@@ -17,6 +21,7 @@
 ## ⚡ Tech Stack
 
 ## 👨‍💻 Programming and markup languages
+
 <p align="center">
     <a title="Java"><img src="https://skillicons.dev/icons?i=java" /></a>
     <a title="JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
@@ -31,6 +36,7 @@
 </p>
 
 ## 🧰 Frameworks and libraries
+
 <p align="center">
     <a title="React"><img src="https://skillicons.dev/icons?i=react" /></a>
     <a title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
@@ -43,6 +49,7 @@
 </p>
 
 ## 🧑🏻‍💻 Software and tools
+
 <p align="center">
     <a title="Git"><img src="https://skillicons.dev/icons?i=git" /></a>
     <a title="Postman"><img src="https://skillicons.dev/icons?i=postman" /></a>
@@ -55,6 +62,7 @@
 </p>
 
 ## 🗄️ Databases and cloud platforms
+
 <p align="center">
     <a title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" /></a>
     <a title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
@@ -67,15 +75,18 @@
 </p>
 
 ## 📈 LeetCode Stats
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/tom_01)](https://leetcode.com/tom_01)
 
 ## 📈 GitHub Stats
+
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShivamPatel-India&show_icons=true&theme=dark" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamPatel-India&theme=dark&hide_border=true" />
 </p>
 
 ## 🔝 Languages Stats
+
 <p align="center">
 <img alt="most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamPatel-India&layout=compact&theme=dark&langs_count=10" />
 </p>
