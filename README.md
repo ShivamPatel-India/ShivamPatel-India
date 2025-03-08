@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-    <a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="40px" /></a> &nbsp;&nbsp;&nbsp;
-    <a href="#" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="40px" /></a> &nbsp;&nbsp;&nbsp;
-    <a href="#" title="Gmail"><img src="https://skillicons.dev/icons?i=gmail" width="40px" /></a> &nbsp;&nbsp;&nbsp;
-    <a href="#" title="Twitter/X"><img src="https://skillicons.dev/icons?i=twitter" width="40px" /></a> &nbsp;&nbsp;&nbsp;
-    <a href="#" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="40px" /></a> &nbsp;&nbsp;&nbsp;
-    <a href="#" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="40px" /></a>
+    <a href="https://shivampatel.onrender.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="40px" /></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/shivam-patel-b7420416b/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="40px" /></a> &nbsp;&nbsp;&nbsp;
+    <a href="mailto:shivampatel.sp151@gmail.com" title="Gmail"><img src="https://skillicons.dev/icons?i=gmail" width="40px" /></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://x.com/ShivamPatel9292" title="Twitter/X"><img src="https://skillicons.dev/icons?i=twitter" width="40px" /></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://discord.com/users/1121444839561633794" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="40px" /></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/shivampatell7/" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="40px" /></a>
 </p>
 
 ## ⚡ Tech Stack
