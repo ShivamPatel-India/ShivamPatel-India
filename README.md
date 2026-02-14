@@ -76,7 +76,7 @@
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamPatel-India&theme=dark&hide_border=true" />
 </p>
 
-## 🔝 Languages Stats
-<!-- <p align="center">
+<!-- ## 🔝 Languages Stats
+<p align="center">
 <img alt="most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamPatel-India&layout=compact&theme=dark&langs_count=10" />
 </p> -->
