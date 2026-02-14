@@ -77,6 +77,6 @@
 </p>
 
 ## 🔝 Languages Stats
-<p align="center">
+<!-- <p align="center">
 <img alt="most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamPatel-India&layout=compact&theme=dark&langs_count=10" />
-</p>
+</p> -->
